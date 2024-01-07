@@ -1,7 +1,6 @@
 # calculator
 
-A new Flutter project.
-
+Welcome to a Calculator Create by unCOOK Written in dart with Flutter framework.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
